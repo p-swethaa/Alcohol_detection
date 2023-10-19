@@ -49,8 +49,6 @@ The scope of the proposed Alcohol Detection System encompasses the design, devel
 
 By encompassing these aspects, the proposed solution aims to provide an effective, efficient, and technologically advanced means of detecting alcohol consumption in drivers, thereby significantly reducing the incidence of drink and drive incidents and enhancing overall road safety.
 
-Alcohol Detection System Readme
-
 Project Aim:
 
 The Alcohol Detection System is a pioneering effort aimed at enhancing road safety by tackling the critical issue of drink and drive incidents. This project focuses on the development of a sophisticated prototype, utilizing microcontroller technology, to detect alcohol consumption by drivers in real-time. The primary objectives of the project are:
