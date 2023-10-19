@@ -4,13 +4,13 @@ Driving under the influence of alcohol continues to be a significant public safe
 The challenge is to create an Alcohol Detection System that effectively identifies drivers who are operating vehicles under the influence of alcohol. This system should be based on microcontroller technology and should have the capability to detect alcohol consumption accurately and swiftly in drivers. The solution should not only meet the technical requirements but also adhere to legal standards and ethical considerations. Developing an efficient, reliable, and cost-effective prototype is essential to address this critical issue and enhance road safety for everyone.
 
 
-Components:
-Bread board
-Jumper wires
-Relay module
-Mq3 alcohol sensor
-Arduino IDE
-DC motor
+Required components to develope the solution:
+Bread board,
+Jumper wires,
+Relay module,
+Mq3 alcohol sensor,
+Arduino IDE,
+DC motor,
 Capacitor
 
 Scope of Solution:
